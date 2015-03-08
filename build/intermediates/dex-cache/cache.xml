@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mark\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\androidauthdemo_Android\androidauthdemo\app\build\intermediates\pre-dexed\debug\guava-18.0-aabdd5ab376d36b8e9bb887220e59aaa66dd903a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mark\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-mobile-services-android-sdk\2.0.2-beta2\f0ed1dcd9df64b4762a5d864302682af0ddbd6a8\azure-mobile-services-android-sdk-2.0.2-beta2.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f0ed1dcd9df64b4762a5d864302682af0ddbd6a8">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\androidauthdemo_Android\androidauthdemo\app\build\intermediates\pre-dexed\debug\azure-mobile-services-android-sdk-2.0.2-beta2-bc594e589765b0f686167f5f5e1c1cff4d41b2ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mark\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\androidauthdemo_Android\androidauthdemo\app\build\intermediates\pre-dexed\debug\gson-2.3-6584127b9206f4e837de352184c9ee0d40ef37b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mark\.gradle\caches\modules-2\files-2.1\com.microsoft.azure\azure-notifications-handler\1.0.1\c322af100020e6db539f2aa367698d4b88fc453f\azure-notifications-handler-1.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c322af100020e6db539f2aa367698d4b88fc453f">
+        <dex dex="C:\Users\Mark\AndroidStudioProjects\androidauthdemo_Android\androidauthdemo\app\build\intermediates\pre-dexed\debug\azure-notifications-handler-1.0.1-3ad3b63d11a5db99327f49c96cccf50e712d390f.jar" />
+    </item>
+
+</items>
