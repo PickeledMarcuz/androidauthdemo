@@ -1,6 +1,6 @@
 # androidauthdemo
 An android ToDoList using Azure mobile services/authentication
 
-````Shell
+```Shell
 npm install 
 ```
